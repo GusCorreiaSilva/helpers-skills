@@ -1,5 +1,5 @@
 function handleGengar() {
-    const pokemon = "https://pokeapi.co/api/v2/pokemon/gengar"
+    const pokemon = "https://pokeapi.co/api/v2/pokemon/druddigon"
 
     fetch(pokemon)
     .then((response) => response.json())
